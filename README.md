@@ -1,8 +1,11 @@
 # Layer6Client
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/layer6_client`. To experiment with that code, run `bin/console` for an interactive prompt.
+[![Build Status](https://travis-ci.org/AnthonyClark/layer6_client.svg?branch=master)](https://travis-ci.org/AnthonyClark/layer6_client)
 
-TODO: Delete this and the text above, and describe your gem
+
+Initial stages of development for [Layer6 API](http://docs.layer6.ai/)
+
+TODO: Update description further
 
 ## Installation
 
@@ -32,7 +35,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/layer6_client.
+Bug reports and pull requests are welcome on GitHub at https://github.com/AnthonyClark/layer6_client.
 
 
 ## License
