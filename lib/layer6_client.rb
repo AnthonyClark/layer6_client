@@ -1,5 +1,9 @@
 require "layer6_client/version"
+require 'rest-client'
 
 module Layer6Client
-  # Your code goes here...
+  BASE_URL = 'https://api.layer6.ai'
+
+
+
 end

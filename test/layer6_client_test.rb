@@ -1,4 +1,5 @@
 require 'test_helper'
+require 'pry'
 
 class Layer6ClientTest < Minitest::Test
   def test_that_it_has_a_version_number
